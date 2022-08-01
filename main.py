@@ -35,3 +35,5 @@ Scaner_1 = Scaner("Canon", "LiDE300")
 print(Scaner_1)
 MFP_1 = MFP("Xerox", "3320DNI")
 print(MFP_1)
+
+"www"
